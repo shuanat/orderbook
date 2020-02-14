@@ -1,5 +1,7 @@
 Modification of the orderbook package on CRAN.
 
+https://www.yumpu.com/en/document/view/32937227/asynchronous-simulations-of-a-limit-order-book-gilles-daniel
+
 This consists of adding two ways of making a trade.
 The original worked via some odd order book format I do not recognize (I 
 vaguely recall ARCA looks like this).
